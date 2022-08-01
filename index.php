@@ -4,7 +4,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
     <meta http-equiv="x-ua-compatible" content="ie=edge" />
-    <title>Material Design for Bootstrap</title>
+    <title>ION || Broadband</title>
     <!-- Font Awesome -->
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.11.2/css/all.css" />
     <!-- Google Fonts Roboto -->
@@ -19,8 +19,8 @@
   <header>
     <style>
       #intro {
-        background-image: url("https://mdbootstrap.com/img/new/fluid/city/018.jpg");
-        height: 100vh;
+        background-image: url("img/bg.webp");
+        height: 80vh;
       }
 
       /* Height for devices larger than 576px */
@@ -40,7 +40,7 @@
       <div class="container-fluid">
         <!-- Navbar brand -->
         <a class="navbar-brand nav-link" target="_blank" href="https://mdbootstrap.com/docs/standard/">
-          <strong>MDB</strong>
+          <strong>ION </strong>
         </a>
         <button class="navbar-toggler" type="button" data-mdb-toggle="collapse" data-mdb-target="#navbarExample01"
           aria-controls="navbarExample01" aria-expanded="false" aria-label="Toggle navigation">
@@ -51,38 +51,33 @@
             <li class="nav-item active">
               <a class="nav-link" aria-current="page" href="#intro">Home</a>
             </li>
-            <li class="nav-item">
-              <a class="nav-link" href="https://www.youtube.com/channel/UC5CF7mLQZhvx8O5GODZAhdA" rel="nofollow"
-                target="_blank">Learn Bootstrap 5</a>
+            <li class="nav-item active">
+              <a class="nav-link" aria-current="page" href="#intro">Services</a>
             </li>
-            <li class="nav-item">
-              <a class="nav-link" href="https://mdbootstrap.com/docs/standard/" target="_blank">Download MDB UI KIT</a>
+            <li class="nav-item active">
+              <a class="nav-link" aria-current="page" href="#intro">Contact Us</a>
             </li>
           </ul>
 
           <ul class="navbar-nav d-flex flex-row">
             <!-- Icons -->
+            
             <li class="nav-item me-3 me-lg-0">
-              <a class="nav-link" href="https://www.youtube.com/channel/UC5CF7mLQZhvx8O5GODZAhdA" rel="nofollow"
-                target="_blank">
-                <i class="fab fa-youtube"></i>
-              </a>
-            </li>
-            <li class="nav-item me-3 me-lg-0">
-              <a class="nav-link" href="https://www.facebook.com/mdbootstrap" rel="nofollow" target="_blank">
+              <a class="nav-link" href="https://www.facebook.com" rel="nofollow" target="_blank">
                 <i class="fab fa-facebook-f"></i>
               </a>
             </li>
             <li class="nav-item me-3 me-lg-0">
-              <a class="nav-link" href="https://twitter.com/MDBootstrap" rel="nofollow" target="_blank">
-                <i class="fab fa-twitter"></i>
+              <a class="nav-link" href="https://www.facebook.com" rel="nofollow" target="_blank">
+                <i class="fab fa-instagram"></i>
               </a>
             </li>
             <li class="nav-item me-3 me-lg-0">
-              <a class="nav-link" href="https://github.com/mdbootstrap/mdb-ui-kit" rel="nofollow" target="_blank">
-                <i class="fab fa-github"></i>
+              <a class="nav-link" href="https://twitter.com" rel="nofollow" target="_blank">
+                <i class="fab fa-twitter"></i>
               </a>
             </li>
+            
           </ul>
         </div>
       </div>
@@ -91,15 +86,14 @@
 
     <!-- Background image -->
     <div id="intro" class="bg-image shadow-2-strong">
-      <div class="mask" style="background-color: rgba(0, 0, 0, 0.8);">
+      <div class="mask" style="background-color: rgba(0, 0, 0, 0.3);">
         <div class="container d-flex align-items-center justify-content-center text-center h-100">
           <div class="text-white">
-            <h1 class="mb-3">Learn Bootstrap 5 with MDB</h1>
-            <h5 class="mb-4">Best & free guide of responsive web design</h5>
-            <a class="btn btn-outline-light btn-lg m-2" href="https://www.youtube.com/watch?v=c9B4TPnak1A" role="button"
-              rel="nofollow" target="_blank">Start tutorial</a>
+            <h1 class="mb-3">Broadband Internet Services</h1>
+            <h5 class="mb-4">Keep calm and connect to WiFi </h5>
             <a class="btn btn-outline-light btn-lg m-2" href="https://mdbootstrap.com/docs/standard/" target="_blank"
-              role="button">Download MDB UI KIT</a>
+              role="button">Get a Quote</a>
+           
           </div>
         </div>
       </div>
@@ -116,7 +110,7 @@
         <div class="row">
           <div class="col-md-6 gx-5 mb-4">
             <div class="bg-image hover-overlay ripple shadow-2-strong" data-mdb-ripple-color="light">
-              <img src="https://mdbootstrap.com/img/new/slides/031.jpg" class="img-fluid" />
+              <img src="img/bg1.png" class="img-fluid" />
               <a href="#!">
                 <div class="mask" style="background-color: rgba(251, 251, 251, 0.15);"></div>
               </a>
@@ -124,17 +118,14 @@
           </div>
 
           <div class="col-md-6 gx-5 mb-4">
-            <h4><strong>Facilis consequatur eligendi</strong></h4>
+            <h4><strong>ION Internet </strong></h4>
             <p class="text-muted">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis consequatur
-              eligendi quisquam doloremque vero ex debitis veritatis placeat unde animi laborum
-              sapiente illo possimus, commodi dignissimos obcaecati illum maiores corporis.
+            ION broadband services to private apartments in Manipal. They have both capped and unlimited data plans at various speeds, contact them at their toll-free number for more details and ask them to email their current Manipal price chart to you.
             </p>
-            <p><strong>Doloremque vero ex debitis veritatis?</strong></p>
+            <p><strong>SSV Internet</strong></p>
             <p class="text-muted">
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod itaque voluptate
-              nesciunt laborum incidunt. Officia, quam consectetur. Earum eligendi aliquam illum
-              alias, unde optio accusantium soluta, iusto molestiae adipisci et?
+            Ssv Broadban It is classified as Non-govt company and is registered at Registrar of Companies,
+            It is Cable & Internet Service Provider. 
             </p>
           </div>
         </div>
@@ -145,24 +136,23 @@
 
       <!--Section: Content-->
       <section class="text-center">
-        <h4 class="mb-5"><strong>Facilis consequatur eligendi</strong></h4>
+        <h4 class="mb-5"><strong>Services</strong></h4>
 
         <div class="row">
           <div class="col-lg-4 col-md-12 mb-4">
             <div class="card">
               <div class="bg-image hover-overlay ripple" data-mdb-ripple-color="light">
-                <img src="https://mdbootstrap.com/img/new/standard/nature/184.jpg" class="img-fluid" />
+                <img src="img/1.webp" class="img-fluid" />
                 <a href="#!">
                   <div class="mask" style="background-color: rgba(251, 251, 251, 0.15);"></div>
                 </a>
               </div>
               <div class="card-body">
-                <h5 class="card-title">Card title</h5>
+                <h5 class="card-title">LTE Router</h5>
                 <p class="card-text">
-                  Some quick example text to build on the card title and make up the bulk of the
-                  card's content.
+           LTE Router take full of advantage of your cutting-edge LTE network, which can share<br>your LTE network with multiple Wi-Fi  devices,<br> ensuring uninterrupted HD movies, rapid file downloads, and smooth video chats. They are also fully compatible with FDD-LTE and TDD-LTE, which are supported by most operators around the globe.
                 </p>
-                <a href="#!" class="btn btn-primary">Button</a>
+                
               </div>
             </div>
           </div>
@@ -170,37 +160,35 @@
           <div class="col-lg-4 col-md-6 mb-4">
             <div class="card">
               <div class="bg-image hover-overlay ripple" data-mdb-ripple-color="light">
-                <img src="https://mdbootstrap.com/img/new/standard/nature/023.jpg" class="img-fluid" />
+                <img src="img/2.webp" class="img-fluid" />
                 <a href="#!">
                   <div class="mask" style="background-color: rgba(251, 251, 251, 0.15);"></div>
                 </a>
               </div>
               <div class="card-body">
-                <h5 class="card-title">Card title</h5>
+                <h5 class="card-title">Wi-Fi System</h5>
                 <p class="card-text">
-                  Some quick example text to build on the card title and make up the bulk of the
-                  card's content.
+                Home Wi-Fi System uses multiple devices to provide end-users a seamless, intelligent and easy-to-configure mesh network that covers the entire home. Systems can also be remotely managed via TR-069, helping ISPs to improve the efficiency of CPE management and reduce after-sales service costs.
                 </p>
-                <a href="#!" class="btn btn-primary">Button</a>
+                
               </div>
             </div>
           </div>
-
+          
           <div class="col-lg-4 col-md-6 mb-4">
             <div class="card">
               <div class="bg-image hover-overlay ripple" data-mdb-ripple-color="light">
-                <img src="https://mdbootstrap.com/img/new/standard/nature/111.jpg" class="img-fluid" />
+                <img src="img/1.webp" class="img-fluid" />
                 <a href="#!">
                   <div class="mask" style="background-color: rgba(251, 251, 251, 0.15);"></div>
                 </a>
               </div>
               <div class="card-body">
-                <h5 class="card-title">Card title</h5>
+                <h5 class="card-title">Wi-Fi Router</h5>
                 <p class="card-text">
-                  Some quick example text to build on the card title and make up the bulk of the
-                  card's content.
+                Wi-Fi routers are some of the most competitive CPEs on the market, known for their reliability and cost-effectiveness, Making use of various technologies such as Wi-Fi 6, and with support of dual band 5 GHz and 2.4 GHz wireless bands, these routers not only deliver faster than ever speed, but also provide a stable network environment to help ISPs to provide better user experience.
                 </p>
-                <a href="#!" class="btn btn-primary">Button</a>
+                
               </div>
             </div>
           </div>
@@ -221,62 +209,40 @@
               <div class="row mb-4">
                 <div class="col">
                   <div class="form-outline">
-                    <input type="text" id="form3Example1" class="form-control" />
-                    <label class="form-label" for="form3Example1">First name</label>
+                    <input type="text" id="form3Example1" name="name" class="form-control" />
+                    <label class="form-label" for="form3Example1">Name</label>
                   </div>
                 </div>
                 <div class="col">
                   <div class="form-outline">
-                    <input type="text" id="form3Example2" class="form-control" />
-                    <label class="form-label" for="form3Example2">Last name</label>
+                    <input type="number" id="form3Example2" name="mobile" class="form-control" />
+                    <label class="form-label" for="form3Example2">Mobile No</label>
                   </div>
                 </div>
               </div>
 
               <!-- Email input -->
               <div class="form-outline mb-4">
-                <input type="email" id="form3Example3" class="form-control" />
-                <label class="form-label" for="form3Example3">Email address</label>
+                <input type="email" id="form3Example3" name="email" class="form-control" />
+                <label class="form-label" for="form3Example3">Email</label>
               </div>
 
               <!-- Password input -->
               <div class="form-outline mb-4">
-                <input type="password" id="form3Example4" class="form-control" />
-                <label class="form-label" for="form3Example4">Password</label>
+                <textarea type="text" id="form3Example4" name="message" class="form-control"></textarea>
+                <label class="form-label" for="form3Example4">Message</label>
               </div>
 
               <!-- Checkbox -->
-              <div class="form-check d-flex justify-content-center mb-4">
-                <input class="form-check-input me-2" type="checkbox" value="" id="form2Example3" checked />
-                <label class="form-check-label" for="form2Example3">
-                  Subscribe to our newsletter
-                </label>
-              </div>
+              
 
               <!-- Submit button -->
               <button type="submit" class="btn btn-primary btn-block mb-4">
-                Sign up
+                Submit
               </button>
 
               <!-- Register buttons -->
-              <div class="text-center">
-                <p>or sign up with:</p>
-                <button type="button" class="btn btn-primary btn-floating mx-1">
-                  <i class="fab fa-facebook-f"></i>
-                </button>
-
-                <button type="button" class="btn btn-primary btn-floating mx-1">
-                  <i class="fab fa-google"></i>
-                </button>
-
-                <button type="button" class="btn btn-primary btn-floating mx-1">
-                  <i class="fab fa-twitter"></i>
-                </button>
-
-                <button type="button" class="btn btn-primary btn-floating mx-1">
-                  <i class="fab fa-github"></i>
-                </button>
-              </div>
+              
             </form>
           </div>
         </div>
@@ -288,42 +254,28 @@
 
   <!--Footer-->
   <footer class="bg-light text-lg-start">
-    <div class="py-4 text-center">
-      <a role="button" class="btn btn-primary btn-lg m-2"
-        href="https://www.youtube.com/channel/UC5CF7mLQZhvx8O5GODZAhdA" rel="nofollow" target="_blank">
-        Learn Bootstrap 5
-      </a>
-      <a role="button" class="btn btn-primary btn-lg m-2" href="https://mdbootstrap.com/docs/standard/" target="_blank">
-        Download MDB UI KIT
-      </a>
-    </div>
+   
 
     <hr class="m-0" />
 
     <div class="text-center py-4 align-items-center">
-      <p>Follow MDB on social media</p>
-      <a href="https://www.youtube.com/channel/UC5CF7mLQZhvx8O5GODZAhdA" class="btn btn-primary m-1" role="button"
-        rel="nofollow" target="_blank">
-        <i class="fab fa-youtube"></i>
-      </a>
-      <a href="https://www.facebook.com/mdbootstrap" class="btn btn-primary m-1" role="button" rel="nofollow"
+      <p>Follow Us on social media</p>
+     
+      <a href="https://www.facebook.com" class="btn btn-primary m-1" role="button" rel="nofollow"
         target="_blank">
         <i class="fab fa-facebook-f"></i>
       </a>
-      <a href="https://twitter.com/MDBootstrap" class="btn btn-primary m-1" role="button" rel="nofollow"
+      <a href="https://instagram.com" class="btn btn-primary m-1" role="button" rel="nofollow"
         target="_blank">
-        <i class="fab fa-twitter"></i>
+        <i class="fab fa-instagram"></i>
       </a>
-      <a href="https://github.com/mdbootstrap/mdb-ui-kit" class="btn btn-primary m-1" role="button" rel="nofollow"
-        target="_blank">
-        <i class="fab fa-github"></i>
-      </a>
+
     </div>
 
     <!-- Copyright -->
     <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2);">
-      © 2020 Copyright:
-      <a class="text-dark" href="https://mdbootstrap.com/">MDBootstrap.com</a>
+      © 2022 Copyright:
+      <a class="text-dark" href="https://mdbootstrap.com/">ION</a>
     </div>
     <!-- Copyright -->
   </footer>
